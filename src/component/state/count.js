@@ -9,7 +9,7 @@ export default class Count extends Component {
     super(props)
     this.state = {
       count: 10,
-      name: 'limiao',
+      name: 'XXX',
     }
 
     // this坏境的绑定
